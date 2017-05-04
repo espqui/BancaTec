@@ -1,0 +1,11 @@
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\obj\Debug\PostgreSQLTEst.Form1.resources
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\obj\Debug\PostgreSQLTEst.Properties.Resources.resources
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\obj\Debug\PostgreSQLTEst.csproj.GenerateResource.Cache
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\bin\Debug\PostgreSQLTEst.exe
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\bin\Debug\PostgreSQLTEst.pdb
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\bin\Debug\MultiCtrls.dll
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\bin\Debug\npgsql.dll
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\obj\Debug\PostgreSQLTEst.exe
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\obj\Debug\PostgreSQLTEst.pdb
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\obj\Debug\PostgreSQLTEst.csprojResolveAssemblyReference.cache
+C:\Users\GeovannyA\Desktop\afppostsrc\PostgreSQLTEst\PostgreSQLTEst\bin\Debug\mono.security.dll
